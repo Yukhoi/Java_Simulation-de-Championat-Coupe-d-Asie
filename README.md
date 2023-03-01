@@ -3,8 +3,8 @@ This is a java programme to similate the Asia Cup football championship with pri
 
 To run the programme you can use the commands:
 
-`cd Programme`
-`javac *.java`
-`java TestSimulation`
+#`cd Programme`
+#`javac *.java`
+#`java TestSimulation`
 
 Enjoy...
